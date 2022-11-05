@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O calendário da copa é um projeto que mostra os jogos da copa 2022 (data, hora e oponentes).
+O calendário da copa é um projeto que mostra os jogos da copa 2022 (data, hora e oponentes). LINK [https://guilenzolari.github.io/calendario-copa-do-mundo/]
 
 ## 🔖 Layout
 
