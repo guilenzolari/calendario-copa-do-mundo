@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="assets/preview.jpg" width="100%">
+  <img alt="calendario da copa" src="assets/Capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,10 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O calendário da copa é um projeto que mostra os jogos da copa 2022 (data, hora e oponentes). [LINK DO SITE](https://guilenzolari.github.io/calendario-copa-do-mundo/)
+O calendário da copa é um projeto que mostra os jogos da copa 2022 (data, hora e oponentes) --> [LINK DO SITE](https://guilenzolari.github.io/calendario-copa-do-mundo/)
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/zj81JZ2TsOOhjNe0quULjh/Calendário-de-Jogos-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/zj81JZ2TsOOhjNe0quULjh/Calendário-de-Jogos-(Community)?node-id=0%3A1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
